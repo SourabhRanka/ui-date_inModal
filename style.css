@@ -6,6 +6,6 @@
     overflow-y: initial !important
 }
 .modal-body{
-    height: 250px;
+    height: 2500px;
     overflow-y: auto;
 }
